@@ -1,6 +1,6 @@
 {
   "name": "language-steel-hub-hazmark",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Grammar and snippets for steel-hub hazmark.",
   "repository": "https://github.com/peter-scott/atom-language-steel-hub-hazmark.git",
   "keywords": [
